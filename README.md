@@ -2,7 +2,7 @@
 Web Responsive para buscar restaurantes veganos y/o con opciones veganas.
 
 Proyecto Final Individual de UX Design - Laboratoria
-por Jocelyne González
+por Jocelyne González - 2018
 
 ![Veggit](https://i.imgur.com/qHuAc27.png)
 
@@ -152,25 +152,29 @@ Mediante la herramienta de prototipado Marvel, digitalicé los sketch, siguiendo
 <a href="https://marvelapp.com/849g0ah">Navegar Prototipo v 1.0</a>
 
 <b>TEST DE USABILIDAD</b>
-Posterior a tener el prototipo armado, realicé un guión para el test de usabilidad, en donde enfatizo al usuario que es un prototipo navegable y que eso será el foco de mi atención en cuanto a evaluar, no su desempeño como usuario. Luego le solicito permiso para grabar, mediante la extensión que provee Loom, pude captar tanto los movimientos que los usuarios realizaron con el mouse, como las expresiones que colocaban.
+Posterior a tener el prototipo armado, se realizó un guión para el test de usabilidad, en donde se le explcia al usuario que es un prototipo navegable y que eso será el foco de la atención en cuanto a evaluar, no su desempeño como usuaro; el guión también describe las tareas a realizar con el prototipo. Luego se le solicita permiso para grabar, mediante la extensión del Navegador Chrome que provee Loom, se pudo captar tanto los movimientos que los usuarios realizaron con el mouse, como las expresiones que colocaban.
 
 ![Test de Usabilidad](https://i.imgur.com/KvKfqQW.png)
 
 <a href="https://docs.google.com/document/d/192VdDDCaVVv1TtAFq7U4s6Hks11P-OnL1j0r8pIaEZo/edit?usp=sharing">Ver Guión del  Test de Usabilidad</a>
 
-De igual manera cuando realizaba los test tomaba apuntes rápidos de reacciones o interacciones que me hayan parecido interesantes de destacar para poder contribuir a iterar este prototipo.
+De igual manera cuando se realizaban los test se tomaba apuntes rápidos de reacciones o interacciones que hayan parecido interesantes de destacar para poder contribuir a iterar este prototipo.
+
+El test de Usabilidad se realizó con 5 personas, de las cuales 4 pudieron completar con éxito todas las tareas y 1 tuvo problemas en la sección de agregar a favoritos, para este usuario el corazón previsto en el prototipo le daba más bien el mensaje de "like" que el de agregar a un listado de favoritos.
+
+También se observó que en el Home, unas descripciones estaban con una tipografía muuy pequeña. Esto se logró captar con el registro de video en el que un usuario se acercaba a la pantalla para poder leer mejor.
+
+Otro de los puntos importantes a destacar es que los pasos en que se había dividio el dejar un comentario parecieron algo innecesarios y en general los usuarios estuvieron de acuerdo en agregar una categoría más: "Ambiente o Infraestructura" para poder opinar y calificar sobre el lugar físico en sí.
 
 <a href="https://docs.google.com/document/d/1Rtva4tCvzyRagabvQQuR8GC0FQ0rf1miVFRxHRvkLlI/edit?usp=sharing">Ver registro audiovisual de los Test de Usabilidad</a>
 
 <b>PROTOTIPO VERSIÓN 2.0</b>
+En este prototipo se hicieron todos los cambios de los errores encontrados en donde el flujo propuesto no se ajustaba de manera óptima al modelo mental de los usuarios. Se agregó una pantalla de carga cuando de aplicaban los filtros, para que los usuarios notaran la que se estaba cargando nueva información, se cambió el ícono del corazón por un Bookmark para guardar en la lista, se cambió el nombre de clasificación por valoración, se redujo los pasos a seguir para postear una reseña y se agregaó una categoría más a valorar: "Ambiente". Esto dentro de otros ajustes pequeños como corregir el tamaño o color de alguna tipografía.
 
 ![Prototipo v2.0](https://i.imgur.com/m2JgWnG.png) 
 
-
-
 <a href="https://marvelapp.com/84f4cfe">Navegar Prototipo v 2.0</a>
 
+El prototipo v2.0 de Veggit, es lo propuesto para un Producto mínimo viable (MVP), ya que posee las funciones necesarias para encontrar un restaurante vegano o con opciones veganas en el momento, la información desplegada cumple con la expectativa de las personas testeadas y el agregar las reseñas de otros usuarios ayuda a tener una referencia de cómo podría ser la experiencia en ese lugar en específico.
 
-
-
-Mvp, 2da versión
+En una segunda versión, adicionalmente de seguir iterando con los problemas previamente encontrados, se incluiría mucha más interacción con otros usuarios y podrían ya dejar sus propias fotografías del restaurante visitado. 
