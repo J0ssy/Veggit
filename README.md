@@ -86,9 +86,9 @@ La mayoría de los omnívoros entrevistados cuando salía a comer con alguna per
 <b>MAPA DE AFINIDAD</b>
 Con respecto a cada entrevista se fue escribiendo en los post it comentarios que pudiesen guiar en cuanto a las dificultades o a lo que valoraban cuando realizaban la búsqueda de un restaurante vegano o con opciones veganas.
 
-Para este caso, debido a la gran cantidad de usuarios entrevistados dividí los post it en 3 colores, de acuerdo a los 3 tipos de entrevistados (Vegano, Vegetariano, Omnívoro), para luego reagruparlos según contenido y poder darles una categoría.
+Para este caso, debido a la gran cantidad de usuarios entrevistados se dividió los post it en 3 colores, de acuerdo a los 3 tipos de entrevistados (Vegano, Vegetariano, Omnívoro), para luego reagruparlos según contenido y poder darles una categoría.
 
-Es así como obtuve 9 categorías:
+Es así como se obtuvo 9 categorías:
 - Transparencia
 - Frustración
 - Preocupación
@@ -106,10 +106,8 @@ De los cuales Transparencia y Frustración fueron los que más se repetían, tom
 
 También fue interesante que todos los entrevistados tuviesen smartphone, pero cuando quisieran buscar un restaurante prefirieran, en su mayoría, el computador. Ya que era algo que debían hacer con anticipación y sabían que les tomaría tiempo, por lo cual les resultaba más cómodo sentarse frente a una pantalla más amplia.
 
-<b>USER PERSONA</b>
-
 <b>GOLDEN CIRCLE</b>
-Para poder estableces la propuesta de valor, utilicé las preguntas que nos realizamos en un Golden Circle, agregándole una cuarta '¿Quiénes?' para establecer el público al cual va dirigido:
+Para poder establecer la propuesta de valor, se utilizó las preguntas que se realizan en un Golden Circle, agregándole una cuarta '¿Quiénes?' para establecer el público al cual va dirigido:
 
 - **¿Quiénes?** Veganos, vegetarianos, omnívoros que interactúen con personas de otros estilos de dieta o deseen probar más variedad de platos que pertenezcan a estos estilos de dieta. 
 - **¿Qué?** Buscar restaurantes veganos o con opciones veganas
@@ -127,25 +125,23 @@ Para poder estableces la propuesta de valor, utilicé las preguntas que nos real
 
 
 <b>SKETCHS</b>
-De acuerdo al contenido y fucionalidad que debe tener cada pantalla es que realicé sketchs de cada una, para ir ubicando de manera estructurada y jerárquica el contenido.
+De acuerdo al contenido y fucionalidad que debe tener cada pantalla es que se realizaron sketchs de cada una, para ir ubicando de manera estructurada y jerárquica el contenido.
 
-![Frustración](https://i.imgur.com/rTHz2zJ.jpg) 
-
-Para acortar tiempo suelo realizar sketch pequeños e indicar a los costados sus funcionalidades o qué contenido en específico lleva.
+![Sketch](https://i.imgur.com/rTHz2zJ.jpg) 
 
 <b>CONCEPTO</b>
-La fuerza que tienen los elementos visuales para comunicar conceptos es innegable. Por eso adicionalmente de realizar un logotipo para la web, determinar el estilo de diseño para mantener una consistencia durante la navegación, quise darle un plus a jugar con el concepto al que asocia la mayoría con vegano/vegetariano.
+La fuerza que tienen los elementos visuales para comunicar conceptos es innegable. Por eso adicionalmente de realizar un logotipo para la web, determinar el estilo de diseño para mantener una consistencia durante la navegación, se le quizo dar un plus a jugar con el concepto al que asocia la mayoría con vegano/vegetariano.
 
 ![Concepto](https://i.imgur.com/JDCuIVH.png)
 
-De esta forma por medio de una fusión de conceptos, tanto una hoja para representar el veganismo/vegetarianismo y el ícono universalmente conocido para localización, es que creé esta nuevo ícono. Lo anterior fue realizado con el software de diseño Adobe Illustrator.
+De esta forma por medio de una fusión de conceptos, tanto una hoja para representar el veganismo/vegetarianismo y el ícono universalmente conocido para localización, es que se creó este nuevo ícono. Lo anterior fue realizado con el software de diseño Adobe Illustrator.
 
 ![Categorías](https://i.imgur.com/tSoxhf6.png) 
 
-Estos mismos íconos los utilicé para definir las categorías y señalar los lugares en el mapa. Para establecer la diferencia de colores entre categorías me basé en las tonalidades que toman las hojas en otoño. 
+Estos mismos íconos se utilizaron para definir las categorías y señalar los lugares en el mapa. Para establecer la diferencia de colores entre categoríasse basó en las tonalidades que toman las hojas en otoño. 
 
 <b>PROTOTIPO VERSIÓN 1.0</b>
-Mediante la herramienta de prototipado Marvel, digitalicé los sketch, siguiendo el flujo de navegación propuesto para posteriormente testear.
+Mediante la herramienta de prototipado Marvel, se digitalizaron los sketch, siguiendo el flujo de navegación propuesto para posteriormente testear.
 
 ![Prototipo v1.0](https://i.imgur.com/m2JgWnG.png) 
 
