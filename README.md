@@ -120,9 +120,8 @@ Para poder establecer la propuesta de valor, se utilizó las preguntas que se re
 
 
 <b>USER FLOW</b>
-
-
-
+![User flow](https://i.imgur.com/q4yenr1.jpg) 
+Se realizó un flujo de los posibles caminos que podría seguir el usuario para llegar finalmente a la búsqueda de un restaurante, agregarlo a su lista de favoritos y añadir una reseña.
 
 <b>SKETCHS</b>
 De acuerdo al contenido y fucionalidad que debe tener cada pantalla es que se realizaron sketchs de cada una, para ir ubicando de manera estructurada y jerárquica el contenido.
