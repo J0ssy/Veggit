@@ -147,7 +147,7 @@ Mediante la herramienta de prototipado Marvel, se digitalizaron los sketch, sigu
 <a href="https://marvelapp.com/849g0ah">Navegar Prototipo v 1.0</a>
 
 <b>TEST DE USABILIDAD</b>
-Posterior a tener el prototipo armado, se realizó un guión para el test de usabilidad, en donde se le explcia al usuario que es un prototipo navegable y que eso será el foco de la atención en cuanto a evaluar, no su desempeño como usuaro; el guión también describe las tareas a realizar con el prototipo. Luego se le solicita permiso para grabar, mediante la extensión del Navegador Chrome que provee Loom, se pudo captar tanto los movimientos que los usuarios realizaron con el mouse, como las expresiones que colocaban.
+Posterior a tener el prototipo armado, se realizó un guión para el test de usabilidad, en donde se le explica al usuario que es un prototipo navegable y que eso será el foco de la atención en cuanto a evaluar, no su desempeño como usuaro; el guión también describe las tareas a realizar con el prototipo. Luego se le solicita permiso para grabar, mediante la extensión del Navegador Chrome que provee Loom, se pudo captar tanto los movimientos que los usuarios realizaron con el mouse, como las expresiones que colocaban.
 
 ![Test de Usabilidad](https://i.imgur.com/KvKfqQW.png)
 
