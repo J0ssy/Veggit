@@ -1,5 +1,5 @@
 # Veggit
-Web Responsive para buscar restaurantes veganos y/o con opciones veganas.
+Web para buscar restaurantes veganos y/o con opciones veganas.
 
 Proyecto Final Individual de UX Design - Laboratoria
 por Jocelyne González - 2018
