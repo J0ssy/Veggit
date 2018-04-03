@@ -6,6 +6,8 @@ por Jocelyne González - 2018
 
 ![Veggit](https://i.imgur.com/qHuAc27.png)
 
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
 **GLOSARIO** 
 Si no estás muy interiorizado en lo que a dietas vegetarianas concierne, acá se adjunta un pequeño glosario:
 
