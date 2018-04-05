@@ -57,7 +57,7 @@ La encuesta entregó gran parte de la información de los otros medios que ya ex
 <a href="https://docs.google.com/spreadsheets/d/1EP-zei0ETujwRmLUei-I6G-ptlfSJRJmX_sftZM46gw/edit?usp=sharing">Ver Benchmark</a>
 
 <b>ENTREVISTAS</b>
-A continuación se realizaron entrevistas para poder extraer experiencias que tuviesen relación a las problemáticas ya halladas en la encuesta. Para esto generé un guión en el que establecí los siguientes objetivos:
+A continuación se realizaron entrevistas para poder extraer experiencias que tuviesen relación a las problemáticas ya halladas en la encuesta. Para esto se generó un guión en el que se establecieron los siguientes objetivos:
 - Comprender las dificultades que experimentan los usuarios para encontrar restaurantes veganos o con opciones veganas
 - Comprender las dificultades que experimentan las personas que no son veganas/vegetarianas cuando quieren juntarse o invitar a otra que sí lo es a comer a un restaurant
 - Averiguar qué métodos  utilizan, en la actualidad, para realizar la búsqueda de un restaurante de este tipo
@@ -118,9 +118,6 @@ Para poder establecer la propuesta de valor, se utilizó las preguntas que se re
 * Simplificar y reducir la incertidumbre acerca de la posibilidad de asistir a restaurantes veganos o con opciones veganas.
 * Facilitar la inclusión de dietas vegetarianas o veganas con respecto a la omnívora. Generando instancias en las que puedan coexistir al momento de ir a un restaurante.
 
-<b>INVENTARIO DE CONTENIDO</b>
-
-
 <b>USER FLOW</b>
 ![User flow](https://i.imgur.com/q4yenr1.jpg) 
 Se realizó un flujo de los posibles caminos que podría seguir el usuario para llegar finalmente a la búsqueda de un restaurante, agregarlo a su lista de favoritos y añadir una reseña.
@@ -131,7 +128,7 @@ De acuerdo al contenido y fucionalidad que debe tener cada pantalla es que se re
 ![Sketch](https://i.imgur.com/rTHz2zJ.jpg) 
 
 <b>CONCEPTO</b>
-La fuerza que tienen los elementos visuales para comunicar conceptos es innegable. Por eso adicionalmente de realizar un logotipo para la web, determinar el estilo de diseño para mantener una consistencia durante la navegación, se le quizo dar un plus a jugar con el concepto al que asocia la mayoría con vegano/vegetariano.
+La fuerza que tienen los elementos visuales para comunicar conceptos es innegable. Por eso adicionalmente de realizar un logotipo para la web, determinar el estilo de diseño para mantener una consistencia durante la navegación, se le quizo dar un plus al jugar con el concepto al que asocia la mayoría con vegano/vegetariano.
 
 ![Concepto](https://i.imgur.com/JDCuIVH.png)
 
@@ -139,7 +136,7 @@ De esta forma por medio de una fusión de conceptos, tanto una hoja para represe
 
 ![Categorías](https://i.imgur.com/tSoxhf6.png) 
 
-Estos mismos íconos se utilizaron para definir las categorías y señalar los lugares en el mapa. Para establecer la diferencia de colores entre categoríasse basó en las tonalidades que toman las hojas en otoño. 
+Estos mismos íconos se utilizaron para definir las categorías y señalar los lugares en el mapa. Para establecer la diferencia de colores entre categorías se basó en las tonalidades que toman las hojas en otoño. 
 
 <b>PROTOTIPO VERSIÓN 1.0</b>
 Mediante la herramienta de prototipado Marvel, se digitalizaron los sketch, siguiendo el flujo de navegación propuesto para posteriormente testear.
@@ -159,14 +156,14 @@ De igual manera cuando se realizaban los test se tomaba apuntes rápidos de reac
 
 El test de Usabilidad se realizó con 5 personas, de las cuales 4 pudieron completar con éxito todas las tareas y 1 tuvo problemas en la sección de agregar a favoritos, para este usuario el corazón previsto en el prototipo le daba más bien el mensaje de "like" que el de agregar a un listado de favoritos.
 
-También se observó que en el Home, unas descripciones estaban con una tipografía muuy pequeña. Esto se logró captar con el registro de video en el que un usuario se acercaba a la pantalla para poder leer mejor.
+También se observó que en el Home, unas descripciones estaban con una tipografía muy pequeña. Esto se logró captar con el registro de video en el que un usuario se acercaba a la pantalla para poder leer mejor.
 
-Otro de los puntos importantes a destacar es que los pasos en que se había dividio el dejar un comentario parecieron algo innecesarios y en general los usuarios estuvieron de acuerdo en agregar una categoría más: "Ambiente o Infraestructura" para poder opinar y calificar sobre el lugar físico en sí.
+Otro de los puntos importantes a destacar es que los pasos en que se había dividido el dejar un comentario parecieron algo innecesarios y en general los usuarios estuvieron de acuerdo en agregar una categoría más: "Ambiente o Infraestructura" para poder opinar y calificar sobre el lugar físico en sí.
 
 <a href="https://docs.google.com/document/d/1Rtva4tCvzyRagabvQQuR8GC0FQ0rf1miVFRxHRvkLlI/edit?usp=sharing">Ver registro audiovisual de los Test de Usabilidad</a>
 
 <b>PROTOTIPO VERSIÓN 2.0</b>
-En este prototipo se hicieron todos los cambios de los errores encontrados en donde el flujo propuesto no se ajustaba de manera óptima al modelo mental de los usuarios. Se agregó una pantalla de carga cuando de aplicaban los filtros, para que los usuarios notaran la que se estaba cargando nueva información, se cambió el ícono del corazón por un Bookmark para guardar en la lista, se cambió el nombre de clasificación por valoración, se redujo los pasos a seguir para postear una reseña y se agregaó una categoría más a valorar: "Ambiente". Esto dentro de otros ajustes pequeños como corregir el tamaño o color de alguna tipografía.
+En este prototipo se hicieron todos los cambios de los errores encontrados en donde el flujo propuesto no se ajustaba de manera óptima al modelo mental de los usuarios. Se agregó una pantalla de carga cuando se aplicaban los filtros, para que los usuarios notaran que se estaba cargando nueva información, se cambió el ícono del corazón por un Bookmark para guardar en la lista, se cambió el nombre de clasificación por valoración, se redujo los pasos a seguir para postear una reseña y se agregó una categoría más a valorar: "Ambiente". Esto dentro de otros ajustes pequeños como corregir el tamaño o color de alguna tipografía.
 
 ![Prototipo v2.0](https://i.imgur.com/m2JgWnG.png) 
 
